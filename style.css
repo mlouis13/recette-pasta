@@ -1,59 +1,36 @@
 h1 {
-	width: 656;
-	height: 40;
-	gap: 24;
-	angle: 0 deg;
-	opacity: 1;
 }
 input {
-	width: 656;
-	height: 76;
+	width: 95%;
+	display: block;
 	border-radius: 12px;
-	gap: 32px;
-	angle: 0 deg;
-	opacity: 1;
-	padding-top: 24px;
-	padding-right: 31%;
-	padding-bottom: 24px;
-	padding-left: 40%;
-	margin-left: 3%;
-	background: var(--color-stone-100, #f3e5d7);
-}
-a {
-	line-height: 100%;
-	letter-spacing: 0%;
-	text-align: center;
-	border-radius: 12px;
-	gap: 32px;
-
-	opacity: 1;
-	padding-top: 12px;
-	padding-right: 40%;
-	padding-bottom: 24px;
-	padding-left: 40%;
-	margin-left: 3%;
-	text-decoration: none;
-	background: var(--color-rose-800, #7a284e);
-	color: white;
-	width: 100%;
-	font-size: 150%;
+	margin-bottom: 12px;
+	padding: 12px 8px;
+	background-color: #f3e5d7;
+	margin-left: 6px;
+	color: #e8ceda;
 }
 .carte {
-	margin: auto;
-	margin-top: 10%;
-
-	width: 50%;
-
-	height: 368;
-	border-radius: spacing/300;
-	padding: spacing/500;
-	gap: 40;
-
-	opacity: 1;
 	background-color: white;
-	padding: 20px;
+	padding: 16px 24px;
+	width: 30%;
+	margin: auto;
+	margin-top: 20%;
+	font-family: Serif;
 	border-radius: 8px;
 }
 body {
 	background: var(--color-stone-100, #f3e5d7);
+}
+a {
+	background-color: #7a284e;
+	color: white;
+	width: 95%;
+	padding: 12px 8px;
+	display: block;
+	text-align: center;
+	font-size: 200%;
+	text-decoration: none;
+	border-radius: 8px;
+	margin: 8px 24px 12px 6px;
 }
