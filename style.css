@@ -1,36 +1,36 @@
 h1 {
 }
 input {
-	width: 95%;
-	display: block;
-	border-radius: 12px;
-	margin-bottom: 12px;
-	padding: 12px 8px;
-	background-color: #f3e5d7;
-	margin-left: 6px;
-	color: #e8ceda;
+  width: 95%;
+  display: block;
+  border-radius: 12px;
+  margin-bottom: 12px;
+  padding: 12px 8px;
+  background-color: #f3e5d7;
+  margin-left: 6px;
+  color: black;
 }
 .carte {
-	background-color: white;
-	padding: 16px 24px;
-	width: 30%;
-	margin: auto;
-	margin-top: 20%;
-	font-family: Serif;
-	border-radius: 8px;
+  background-color: white;
+  padding: 16px 24px;
+  width: 30%;
+  margin: auto;
+  margin-top: 20%;
+  font-family: Serif;
+  border-radius: 8px;
 }
 body {
-	background: var(--color-stone-100, #f3e5d7);
+  background: var(--color-stone-100, #f3e5d7);
 }
 a {
-	background-color: #7a284e;
-	color: white;
-	width: 95%;
-	padding: 12px 8px;
-	display: block;
-	text-align: center;
-	font-size: 200%;
-	text-decoration: none;
-	border-radius: 8px;
-	margin: 8px 24px 12px 6px;
+  background-color: #7a284e;
+  color: white;
+  width: 95%;
+  padding: 12px 8px;
+  display: block;
+  text-align: center;
+  font-size: 200%;
+  text-decoration: none;
+  border-radius: 8px;
+  margin: 8px 24px 12px 6px;
 }
