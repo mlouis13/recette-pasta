@@ -25,6 +25,7 @@ body {
 }
 .green {
   background-color: #b5ffae;
+  margin-right: 16px;
 }
 table {
   border-collapse: collapse;
@@ -51,4 +52,7 @@ h2 {
 }
 h3 {
   color: #7a284e;
+}
+h1 {
+  font-size: 3rem;
 }
