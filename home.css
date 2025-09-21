@@ -11,7 +11,7 @@ body {
   background-color: white;
   margin-left: 30%;
   margin-right: 30%;
-  padding: 24px;
+  padding: 48px;
   border-radius: 8px;
 }
 .ligne {
@@ -35,6 +35,7 @@ tr {
 }
 .ligne2 {
   color: #854632;
+  font-weight: bold;
 }
 td {
   padding: 12px;
@@ -42,4 +43,12 @@ td {
 .youtube {
   background-color: #fff7fb;
   padding: 24px;
+}
+h2 {
+  font-family: serif;
+  color: #854632;
+  font-size: 2rem;
+}
+h3 {
+  color: #7a284e;
 }
