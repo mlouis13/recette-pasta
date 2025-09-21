@@ -56,3 +56,16 @@ h3 {
 h1 {
   font-size: 3rem;
 }
+ol li::marker {
+  color: #854632;
+  font-weight: bold;
+}
+li {
+  padding: 4px;
+}
+ol {
+  padding-left: 20px;
+}
+ul {
+  padding-left: 20px;
+}
